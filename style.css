@@ -1,0 +1,9 @@
+ol li::marker{
+  color:#f4b60b
+}
+ul li::marker{
+  color:#f4b60b;
+}
+imagem {
+  display:inline
+}
